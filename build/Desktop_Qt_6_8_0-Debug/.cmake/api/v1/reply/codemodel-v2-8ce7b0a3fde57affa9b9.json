@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0e1a45114e8516640237.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "illumination",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "illumination::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-illumination-Debug-9f7ec7f82ea9546fb313.json",
+					"name" : "illumination",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "illumination_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-illumination_autogen-Debug-abc2284f4703354ed2ab.json",
+					"name" : "illumination_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "illumination_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-illumination_autogen_timestamp_deps-Debug-293ae550a756e8d3ddb8.json",
+					"name" : "illumination_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/caiotavares/Documents/unesp/cg/illumination/build/Desktop_Qt_6_8_0-Debug",
+		"source" : "/home/caiotavares/Documents/unesp/cg/illumination"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
